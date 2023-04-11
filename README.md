@@ -1,1 +1,5 @@
-# Vitorrevoredo
+### Hi there 👋🏻
+
+💻- Developer 
+
+📚- Html,css, javascript 
