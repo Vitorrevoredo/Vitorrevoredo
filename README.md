@@ -24,6 +24,8 @@
 </picture>
 <div>
   <img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorrevoredo&layout=compact&theme=dracula"/>
+  
+  ![Snake animation](https://github.com/Vitorrevoredo/Vitorrevoredo/blob/output/github-contribution-grid-snake.yml)
 </div>
 
-![Snake animation](https://github.com/Vitorrevoredo/Vitorrevoredo/blob/output/github-contribution-grid-snake.yml)
+
