@@ -22,8 +22,11 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=vitorrevoredo&show_icons=true" />
 </picture>
-<div  
+
+<div>  
+  
   ![Snake animation](https://github.com/Vitorrevoredo/Vitorrevoredo/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 
