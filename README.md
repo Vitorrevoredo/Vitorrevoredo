@@ -13,8 +13,8 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=vitorrevoredo&show_icons=true&theme=tokionight"
-  media="(prefers-color-scheme: tokionigth)"
+  srcset="https://github-readme-stats.vercel.app/api?username=vitorrevoredo&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=vitorrevoredo&show_icons=true"
@@ -22,3 +22,6 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=vitorrevoredo&show_icons=true" />
 </picture>
+<div>
+  <img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorrevoredo&layout=compact&theme=dracula"/>
+</div>
