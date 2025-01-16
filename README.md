@@ -3,7 +3,12 @@
 <div>
   <a href="https://www.linkedin.com/in/vitor-revoredo-35897526b/>target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:joaovitorderevoredo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <p> Tenho 21 anos e sou de Garanhuns, uma cidade no interior de Pernambuco, e atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFPE, indo para o segundo semestre 🎓. <br> Também tenho formação técnica em Meio Ambiente. </p>
-<p> Ao finalizar o técnico, decidi migrar de área e seguir meu grande interesse: a tecnologia e a inovação. Ao iniciar o tecnólogo em ADS, percebi que essa realmente era minha "praia". Já tive experiências de trabalho em outras áreas, mas nada relacionado à tecnologia. </p>
-Tenho conhecimento em HTML, CSS, JavaScript, Java e Python, e estou buscando aprimorar minhas habilidades.
+  <p> Atualmente curso Análise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco (IFPE). Além disso, possuo formação técnica em Meio Ambiente. Após concluir o técnico, decidi seguir minha paixão por tecnologia e inovação. Essa decisão me levou a explorar profundamente o universo da programação. </p>
+<ul>
+<li>Linguagens: Python, SQL, Java,  HTML, CSS.</li>
+<li>Cloud Computing: IAM, EC2, VPC, Lambda, Glue, Athena, QuickSight, Step Functions.</li>
+<li>Big Data e Visualização: Spark, processamento e análise de dados com AWS EMR e AWS Glue.</li>
+</ul>
+<p>📚 Também tenho experiência prévia em áreas de vendas e atendimento, o que me ajudou a desenvolver habilidades interpessoais e organização.</p>
+<p>Estou animado para continuar minha jornada no mundo da tecnologia e contribuir para projetos que impulsionem a inovação e o impacto positivo no mercado.</p>
 </div>
