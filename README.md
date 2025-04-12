@@ -5,13 +5,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no Instituto Federal
 ### 🚀 Sobre mim
 
 - 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas – IFPE
-- 🌱 Aprendendo e construindo projetos com foco em **backend**, **cloud computing** e **engenharia de dados**
-- 📊 Apaixonado por dados, automação e soluções que geram valor
 - 🤝 Acredito no poder da tecnologia para transformar vidas e negócios
 
 ### 🧰 Tecnologias e Ferramentas
 
-- **Linguagens:** Python, Java, SQL, HTML, CSS
+- **Linguagens:** Python, Java, SQL, HTML, CSS, JavaScript
 - **Cloud & DevOps:** AWS (IAM, EC2, VPC, Lambda, Glue, Athena, QuickSight, Step Functions)
 - **Big Data & Analytics:** Apache Spark, AWS EMR, AWS Glue, Power BI
 - **Banco de Dados:** MySQL, MongoDB
