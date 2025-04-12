@@ -1,14 +1,32 @@
-## Olá Meu nome é Vitor Revoredo, sou estudante de programação!!
+## 👋 Olá! Meu nome é Vitor Revoredo
 
-<div>
-  <a href="https://www.linkedin.com/in/vitor-revoredo-35897526b/>target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:joaovitorderevoredo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <p> Atualmente curso Análise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco (IFPE). Além disso, possuo formação técnica em Meio Ambiente. Após concluir o técnico, decidi seguir minha paixão por tecnologia e inovação. Essa decisão me levou a explorar profundamente o universo da programação. </p>
-<ul>
-<li>Linguagens: Python, SQL, Java,  HTML, CSS.</li>
-<li>Cloud Computing: IAM, EC2, VPC, Lambda, Glue, Athena, QuickSight, Step Functions.</li>
-<li>Big Data e Visualização: Spark, processamento e análise de dados com AWS EMR e AWS Glue.</li>
-</ul>
-<p>📚 Também tenho experiência prévia em áreas de vendas e atendimento, o que me ajudou a desenvolver habilidades interpessoais e organização.</p>
-<p>Estou animado para continuar minha jornada no mundo da tecnologia e contribuir para projetos que impulsionem a inovação e o impacto positivo no mercado.</p>
-</div>
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no Instituto Federal de Pernambuco (IFPE), apaixonado por tecnologia, dados e inovação. Após minha formação técnica em Meio Ambiente, mergulhei de cabeça no universo da programação — uma escolha que tem guiado minha carreira com propósito e entusiasmo.
+
+### 🚀 Sobre mim
+
+- 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas – IFPE
+- 🌱 Aprendendo e construindo projetos com foco em **backend**, **cloud computing** e **engenharia de dados**
+- 📊 Apaixonado por dados, automação e soluções que geram valor
+- 🤝 Acredito no poder da tecnologia para transformar vidas e negócios
+
+### 🧰 Tecnologias e Ferramentas
+
+- **Linguagens:** Python, Java, SQL, HTML, CSS
+- **Cloud & DevOps:** AWS (IAM, EC2, VPC, Lambda, Glue, Athena, QuickSight, Step Functions)
+- **Big Data & Analytics:** Apache Spark, AWS EMR, AWS Glue, Power BI
+- **Banco de Dados:** MySQL, MongoDB
+- **Outros:** Git, GitHub, Linux, Postman, REST APIs
+
+### 💼 Soft Skills
+
+Tenho experiência anterior com **vendas e atendimento ao cliente**, o que me proporcionou uma boa base em comunicação, empatia e trabalho em equipe — qualidades que aplico hoje em ambientes de tecnologia.
+
+### 🌐 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-revoredo-35897526b/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitorderevoredo@gmail.com)
+
+---
+
+✨ *Estou sempre em busca de novos desafios, projetos colaborativos e oportunidades para crescer como desenvolvedor e profissional de dados.*  
+🔎 Dê uma olhada nos meus repositórios e sinta-se à vontade para entrar em contato!
