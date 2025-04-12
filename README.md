@@ -12,7 +12,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no Instituto Federal
 - **Linguagens:** Python, Java, SQL, HTML, CSS, JavaScript
 - **Cloud & DevOps:** AWS (IAM, EC2, VPC, Lambda, Glue, Athena, QuickSight, Step Functions)
 - **Big Data & Analytics:** Apache Spark, AWS EMR, AWS Glue, Power BI
-- **Banco de Dados:** MySQL, MongoDB
+- **Banco de Dados:** MySQL, PostgreSQL e MongoDB
 - **Outros:** Git, GitHub, Linux, Postman, REST APIs
 
 ### 💼 Soft Skills
