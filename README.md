@@ -1,6 +1,6 @@
 ## 📌 Sobre mim
 
-👋 Olá! Eu sou Vitor Revoredo, tenho 21 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** no IFPE. Tenho experiência prática com **engenharia de dados na nuvem**, **automação de processos** e **desenvolvimento backend**, além de uma base sólida em **vendas e atendimento ao cliente** que fortalece minha comunicação e trabalho em equipe.
+👋 Olá! Eu sou Vitor Revoredo, tenho 21 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** no IFPE. Tenho experiência prática com **engenharia de dados na nuvem**, **automação de processos** e **desenvolvimento de aplicações**, além de uma base sólida em **vendas e atendimento ao cliente** que fortalece minha comunicação e trabalho em equipe.
 
 ## 🧰 Tecnologias mais que uso
 
